@@ -102,5 +102,5 @@ setup(name='deepvoice3_pytorch',
           "jp": [
               "jaconv",
               "mecab-python3",
-          ],
+          ]
       })
