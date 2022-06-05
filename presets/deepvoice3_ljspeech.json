@@ -24,7 +24,7 @@
   "padding_idx": 0,
   "max_positions": 512,
   "dropout": 0.050000000000000044,
-  "kernel_size": 3,
+  "kernel_size": 5,
   "text_embed_dim": 256,
   "encoder_channels": 512,
   "decoder_channels": 256,
