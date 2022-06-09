@@ -61,7 +61,7 @@ hparams = HParams(
     # попробуйте установить большее значение, если вы хотите ввести очень длинный текст
     max_positions=512,
     dropout=1 - 0.95,
-    kernel_size=5,
+    kernel_size=3,
     text_embed_dim=128,
     encoder_channels=256,
     decoder_channels=256,
